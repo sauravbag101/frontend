@@ -1,6 +1,6 @@
 
 import './App.css'
-import Animation from './components/animation'
+
 import Home from './components/Home'
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
   return (
    <>
    <Home/>
-   <Animation/>
+
    </>
   )
 }
